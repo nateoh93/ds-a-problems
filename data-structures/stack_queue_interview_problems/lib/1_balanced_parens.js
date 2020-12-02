@@ -10,10 +10,10 @@
 // the code smells out of your (anticipated) massive codebase! Part of your 
 // technical design includes writing a function that checks that all of the 
 // parentheses in your engineers' code are balanced.
-//
+
 // Given a string of text, write a function that returns true if the 
 // parentheses are balanced, and false if they are not.
-//
+
 // Note: Your code should ignore all non-bracket characters in the input 
 //       string.
 //
